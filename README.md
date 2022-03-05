@@ -1,8 +1,8 @@
-## Desafio Dio
+# Desafio Dio
 
 ##
 
-## banco digital.
+## Banco Digital.
 
 A dio propos um desafio para criação de um banco digital: <br/>
 -Nos estanciamos o cliente. <br/>
